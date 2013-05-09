@@ -1,3 +1,3 @@
 #!/bin/sh
-openssl genrsa 192 > private-key.pem
+openssl genrsa 2048 > private-key.pem
 
